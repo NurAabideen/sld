@@ -1,0 +1,7 @@
+region        = "us-east-1"
+instance_type = "t2.micro"
+ami_id        = "ami-0e7c1feb35eae3e25"
+key_name      = "deployer-key"
+ssh_cidr      = "0.0.0.0/0"
+private_key_path = "\\private_key.pem"
+#private_key_path = "C:\\Users\\YourUsername\\Documents\\Terraform\\private_key.pem"
