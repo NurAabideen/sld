@@ -1,6 +1,6 @@
 region        = "us-east-1"
-instance_type = "t2.micro"
-ami_id        = "ami-0e7c1feb35eae3e25"
+instance_type = "t2.medium"
+ami_id        = "ami-020cba7c55df1f615"
 key_name      = "deployer-key"
 ssh_cidr      = "0.0.0.0/0"
 private_key_path = "\\private_key.pem"
